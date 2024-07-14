@@ -4,7 +4,7 @@ This project was built using ReactJs and SCSS. The swiper library was used to ma
 
 ## Starting the project
 
-**Project Requiremnts**
+**Project Requirements**
 
 - Nodejs
 
