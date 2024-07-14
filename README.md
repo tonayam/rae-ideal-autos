@@ -1,6 +1,6 @@
 # A simple landing page for an auto-dealership.
 
-This project was built using ReactJs and SCSS. The swiper library was used to make the swipable interface. "React-fast-marquee" library was used to make the infinite marquee of auto-logos
+This project was built using ReactJs and SCSS. The swiper library was used to make the swipable interface. "React-fast-marquee" library was used to make the infinite marquee of auto-logos.
 
 ## Starting the project
 
